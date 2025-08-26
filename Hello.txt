@@ -1,3 +1,5 @@
 Pranavi Advaita
 I learned how to create my github profile.
+
 Next, i have created a repository file in github.
+I learned to update the content in my file.
